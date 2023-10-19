@@ -10,7 +10,7 @@ Arduino Sketches
 	4) "Datalogger_UI"	-> first version that incorperated a user interface into the datalogger
 
 - Setup files contain sketches that can be used to help setup the Arduino datalogger
-	* Note using the new version of the data logger code the only setup code that is needed is to setup SDI sensors ("SDI_SensorSetup" or "SDI_SensorTest")
+	* Note using the new version of the datalogger code the only setup code that is needed is to setup SDI sensors ("SDI_SensorSetup" or "SDI_SensorTest")
 	1) "SDCard_test"	-> will test to see if the SD card is readable and gives the storage used on the SD card
 	2) "SDI_SensorSetup" 	-> test the SDI-12 sensor is connected, and allow to change the sensor's address
 	3) "SDI_SensorTest" 	-> test the SDI-12 sensor is connected, and allow to change the sensor's address, and will take measurements to see if the sensor is working
